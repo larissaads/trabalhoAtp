@@ -1,0 +1,15 @@
+C:\Users\laris\OneDrive\Área de Trabalho\trabfinalAtp\obj\Debug\net7.0\trabfinalAtp.csproj.AssemblyReference.cache
+C:\Users\laris\OneDrive\Área de Trabalho\trabfinalAtp\obj\Debug\net7.0\trabfinalAtp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laris\OneDrive\Área de Trabalho\trabfinalAtp\obj\Debug\net7.0\trabfinalAtp.AssemblyInfoInputs.cache
+C:\Users\laris\OneDrive\Área de Trabalho\trabfinalAtp\obj\Debug\net7.0\trabfinalAtp.AssemblyInfo.cs
+C:\Users\laris\OneDrive\Área de Trabalho\trabfinalAtp\obj\Debug\net7.0\trabfinalAtp.csproj.CoreCompileInputs.cache
+C:\Users\laris\OneDrive\Área de Trabalho\trabfinalAtp\bin\Debug\net7.0\trabfinalAtp.exe
+C:\Users\laris\OneDrive\Área de Trabalho\trabfinalAtp\bin\Debug\net7.0\trabfinalAtp.deps.json
+C:\Users\laris\OneDrive\Área de Trabalho\trabfinalAtp\bin\Debug\net7.0\trabfinalAtp.runtimeconfig.json
+C:\Users\laris\OneDrive\Área de Trabalho\trabfinalAtp\bin\Debug\net7.0\trabfinalAtp.dll
+C:\Users\laris\OneDrive\Área de Trabalho\trabfinalAtp\bin\Debug\net7.0\trabfinalAtp.pdb
+C:\Users\laris\OneDrive\Área de Trabalho\trabfinalAtp\obj\Debug\net7.0\trabfinalAtp.dll
+C:\Users\laris\OneDrive\Área de Trabalho\trabfinalAtp\obj\Debug\net7.0\refint\trabfinalAtp.dll
+C:\Users\laris\OneDrive\Área de Trabalho\trabfinalAtp\obj\Debug\net7.0\trabfinalAtp.pdb
+C:\Users\laris\OneDrive\Área de Trabalho\trabfinalAtp\obj\Debug\net7.0\trabfinalAtp.genruntimeconfig.cache
+C:\Users\laris\OneDrive\Área de Trabalho\trabfinalAtp\obj\Debug\net7.0\ref\trabfinalAtp.dll
